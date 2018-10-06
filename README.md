@@ -112,6 +112,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
  
   - [Lista de cursos online](http://www.kdnuggets.com/education/online.html) by KDnuggets
   - [Playlist de Treinamento](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX) by Edureka!
+  - [Playlist Data Science](https://www.youtube.com/watch?v=J-VrsU38xJg&list=PLbmt8d_ueDMWeLBmtNC8LnGxFCWTwdjNa) by Canal do Sandeco
 
 ### Webcasts & Webinars
   - [Lista dos próximos](http://www.kdnuggets.com/webcasts/index.html) by KDnuggets
@@ -119,6 +120,7 @@ No mais, é isso. Bem vinda(o), pequena(o) padawan :)
 ### Tutoriais de Python
   - [Curso de Python3](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true) by Curso em Vídeo
   - [Aulas de Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) by Ignorância Zero
+  - [Aulas de Python] (https://www.youtube.com/watch?v=6La690qlH5w&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) by Python para Zumbis
 --------------------------------------------------
 <h2 id="datasets">Datasets</h2>
 
